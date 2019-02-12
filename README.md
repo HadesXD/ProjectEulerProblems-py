@@ -4,7 +4,7 @@ https://projecteuler.net/archives
 
 <b>Used:</b>
 - language: Python
-- IDE: PythonIDLE
+- IDE: PythonIDLE, Atom or gVim
 
 <b>To Do:</b>
 - solve more problems
